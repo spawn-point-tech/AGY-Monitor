@@ -40,7 +40,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/techpoint/AGY-Monitor.git
+git clone https://github.com/spawn-point-tech/AGY-Monitor.git
 cd AGY-Monitor
 ```
 
@@ -190,6 +190,13 @@ Contributions, bug reports, and suggestions are welcome!
 
 ---
 
+## 👥 Authors & Credits
+
+- **Phil Giambra** ([Spawn Point Tech, LLC](https://github.com/spawn-point-tech)) — Creator & Project Lead
+- **Anti-Gravity (aka AG)** — AI Pair Programmer & Co-Developer
+
+---
+
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
